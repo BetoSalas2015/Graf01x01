@@ -1,0 +1,4 @@
+# Archivos a Ignorar en el rspaldo
+*.class
+
+# Carpetas a Ignorar en el respaldo
