@@ -1,0 +1,2 @@
+Creamos la abstracción de Punto (Punto.java)
+Creamos cuatro objetos Punto que re´resentan las 4 coordenadas de un rombo.
